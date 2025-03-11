@@ -64,7 +64,9 @@ Password: admin
 - Frontend: React, TailwindCSS
 - Движок атак: [Проект MHDDoS](https://github.com/MatrixTM/MHDDoS)
 
-![Страница Входа](image.png)
+![Страница Входа](image1.png)
+
+![Страница Панели](image.png)
 
 ## 🤝 Вклад в развитие
 
